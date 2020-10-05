@@ -3,6 +3,7 @@
 
 
 GitHub original https://github.com/joanby/r-basic
+
 GitHub clonado en mi repositorio de github-- https://github.com/74CPC/r-basic
 
 Conoce toda la estadística descriptiva de la mano de Juan Gabriel Gomila y asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primera de carrera a matemáticos, ingenieros o informáticos como por ejemplo:
